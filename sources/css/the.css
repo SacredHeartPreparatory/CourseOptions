@@ -1,0 +1,81 @@
+
+
+/* GLOBAL STYLES */
+*:focus, *:after {
+    outline: 0 !important;
+}
+::selection {
+  /* WebKit/Blink Browsers */
+  background-color:#bf2c1c;
+  color:white;
+}
+ ::-moz-selection {
+  /* Gecko Browsers */
+  background-color:#bf2c1c;
+  color:white;
+}
+
+/* Typography */
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+}
+
+p {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+
+h2 {
+	font-size: 30px;
+}
+
+h3 {
+	font-size: 20px;
+	letter-spacing: 1px;
+}
+
+h4 {
+	font-size: 16px;
+	letter-spacing: 1px;
+}
+
+h5 {
+	font-size: 12px;
+	letter-spacing: 1px;
+	font-weight: 400;
+}
+
+h6 {
+	font-size: 11px;
+	letter-spacing: 1px;
+	font-weight: 400;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+i {
+	display: inline;
+width: auto;
+height: auto;
+line-height: inherit;
+vertical-align: baseline;
+background-image: none;
+background-position: 0% 0%;
+background-repeat: repeat;
+}
+
+/* Content */
+
+
+
+
+
+
+
+
