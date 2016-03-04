@@ -26,7 +26,7 @@
 		<div class="container">
 			<div class="row col-xs-12">
 				<div class="page-header">
-		  			<h1>Course Options <small>SHP</small></h1>
+		  			<h1>Course Options <small>Sacred Heart Prep</small></h1>
 				</div>
 			</div>
 		</div>
